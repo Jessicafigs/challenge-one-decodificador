@@ -1,4 +1,4 @@
-# <h1 align="center">codificador_desafio1_Alura_Oracle_t4</h1>
+# <h1 align="center">challenge-one-decodificador</h1>
 ### <h1 align="center">#challengeonedecodificador4</h1>
 
 ## Descrição do Projeto 
